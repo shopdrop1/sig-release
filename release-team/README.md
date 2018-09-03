@@ -57,6 +57,19 @@ which shall be the discharged by the Release Team.
 
 ## Kubernetes Release Team roles
 
+| Role | Handbook |
+| --- | --- |
+| Release Team Lead | [Link](/role-handbooks/release-team-lead/README.md) |
+| Features Lead| [Link](/role-handbooks/features/README.md) |
+| CI Signal Lead | [Link](/role-handbooks/ci-signal/README.md) |
+| Test Infra Lead | [Link](/role-handbooks/test-infra/README.md) |
+| Bug Triage Lead | [Link](/role-handbooks/bug-triage/README.md) |
+| Branch Manager | [Link](/role-handbooks/branch-manager/README.md) |
+| Docs Lead | [Link](/role-handbooks/docs/README.md) |
+| Release Notes Lead | [Link](/role-handbooks/release-notes/README.md) |
+| Communications Coordinator | [Link](/role-handbooks/communications/README.md) |
+| Patch Release Manager | [Link](/role-handbooks/patch-release-manager/README.md) |
+
 As documented in the [Kubernetes Versioning doc](https://git.k8s.io/community/contributors/design-proposals/release/versioning.md),
 there are 3 types of Kubernetes releases:
 - Major (x.0.0)
